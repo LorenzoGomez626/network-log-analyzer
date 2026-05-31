@@ -1,6 +1,6 @@
 # ===========================================
 # Network Log Analyzer
-# A beginner cybersecurity project
+# A cybersecurity project
 # Detects brute force attacks, port scans,
 # and suspicious after-hours activity
 # by Freddys
